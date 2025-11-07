@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+
+# Jac Language / BE outputs
+*.jac~
+outputs/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit / Frontend
+.streamlit/
+node_modules/
+*.html
+*.js.map
+
+# Misc
+*.bak
+*.tmp
