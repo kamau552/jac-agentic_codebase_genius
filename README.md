@@ -71,6 +71,8 @@ Option A: Use the test walker (easiest)
 jac run main.jac -w test_system
 Option B: Use the API
 
+---
+
 📂 Project Structure
 bash
 Copy code
