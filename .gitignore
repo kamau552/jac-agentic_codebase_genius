@@ -31,3 +31,10 @@ node_modules/
 # Misc
 *.bak
 *.tmp
+
+# Render build files
+.render-buildpacks-cache/
+
+# Temporary files
+*.session
+EOF
